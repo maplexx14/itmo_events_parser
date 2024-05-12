@@ -1,7 +1,7 @@
 ﻿
-#include "tgbot/telebot.cpp"
+#include "src/get_data.cpp"
 int main() {
-    bot_main();
+    get_data_site();
    
     return 0;
 }
